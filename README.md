@@ -1,4 +1,4 @@
-# Hi, I'm Siddhant 👋
+# Hi, I'm Siddhant Jha👋
 
 🎓 BCA Student | Aspiring Data Scientist  
 📍 India  
