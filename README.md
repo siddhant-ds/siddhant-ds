@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Siddhant 👋
 
-<!--
-**siddhant-ds/siddhant-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Data Scientist  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔍 Exploring Data Science, Python & SQL
+- 💻 Programming with Python, C++ & Java (Foundational level)
+- 📚 Building projects to grow skills
+- 🌱 Currently learning: Data concepts & Git/GitHub
+
+---
+
+### 🛠️ Skills (Beginner)
+- **Languages:** Python, C++, Java
+- **Tools:** GitHub (learning)
+- **Interests:** Data Analytics, Machine Learning
+
+---
+
+### 📈 Goals (2025)
+- Contribute regularly on GitHub  
+- Create Python beginner + data projects  
+- Learn Data Analysis tools (Excel, Power BI, SQL)  
+
+---
+
+### 📬 Connect with Me
+- Email: *(imsidhantjha@gmail.com)*
+
+> ⭐️ Fun fact: Every small project you make brings you one step closer to becoming a Data Scientist!
