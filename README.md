@@ -29,7 +29,7 @@
 
 ### 📬 Connect with Me
 - Email: *(imsidhantjha@gmail.com)*
-- www.linkedin.com/in/siddhant-jha-584846359
+-linkedin: www.linkedin.com/in/siddhant-jha-584846359
 
 
 > ⭐️ Fun fact: Every small project you make brings you one step closer to becoming a Data Scientist!
