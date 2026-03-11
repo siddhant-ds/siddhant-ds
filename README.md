@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔍 Exploring Data Science, Python & SQL
+- 🔍 Exploring Data Science, Python 
 - 💻 Programming with Python, C++ & Java (Foundational level)
 - 📚 Building projects to grow skills
 - 🌱 Currently learning: Data concepts & Git/GitHub
@@ -29,5 +29,7 @@
 
 ### 📬 Connect with Me
 - Email: *(imsidhantjha@gmail.com)*
+- www.linkedin.com/in/siddhant-jha-584846359
+
 
 > ⭐️ Fun fact: Every small project you make brings you one step closer to becoming a Data Scientist!
